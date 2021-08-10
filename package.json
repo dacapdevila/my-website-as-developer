@@ -1,0 +1,14 @@
+{
+  "name": "dario-capdevila",
+  "version": "1.0.0",
+  "description": "Dario Capdevila´s personal website",
+  "main": "index.js",
+  "scripts": {
+    "sw": "sass --watch scss/main.scss main.css"
+  },
+  "author": "Dario Lucas Capdevila",
+  "private": true,
+  "devDependencies": {
+    "sass": "^1.37.5"
+  }
+}
